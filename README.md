@@ -1,4 +1,6 @@
-# Computer Science student 
+# Pavani Laxmi Jupudi
+## Junior Major : Computer Science 
+
 
 ### Education 
 Associates - Computer Science  
