@@ -1,5 +1,5 @@
 title: Pavani Laxmi Jupudi 
 logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: false
+description: Computer Science/Data Science
+show_downloads: true 
 theme: jekyll-theme-cayman
