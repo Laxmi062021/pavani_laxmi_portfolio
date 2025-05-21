@@ -5,8 +5,8 @@
 
 ## Education 
 - M.S., Data Science ( 4+1 program) | Rowan University (_July 2025 - Present_)
-- B.S., Computer Science | Rowan University  (_September 2024 - Present_)
-- A.S., Computer Science | Rowan College of South Jersey (_September 2022 - May 2024_)
+- B.S., Computer Science            | Rowan University  (_September 2024 - Present_)
+- A.S., Computer Science            | Rowan College of South Jersey (_September 2022 - May 2024_)
 
 ### Work Experience
 
@@ -36,6 +36,6 @@
 ### Undergraduate Research Project 
   - 
 ### Credit Card 
-  - Publication : ([https://github.com/me50/Laxmi062021/blob/cs50/problems/2022/x/credit/credit.c)
+  - Publication ([https://github.com/me50/Laxmi062021/blob/cs50/problems/2022/x/credit/credit.c)
   - Uses the Luhn algorithm to verify card number whether it is Visa, AMEX, or MasterCard using C language
 
